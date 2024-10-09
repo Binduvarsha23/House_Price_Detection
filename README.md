@@ -66,7 +66,7 @@ pip install numpy pandas scikit-learn matplotlib
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Binduvarsha23/House_Price_Detection
+git clone https://github.com/Binduvarsha23/House_Price_Detection.git
 ```
 
 ## Usage
