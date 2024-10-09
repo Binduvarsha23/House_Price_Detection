@@ -66,7 +66,7 @@ pip install numpy pandas scikit-learn matplotlib
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/boston-housing-prediction.git
+git clone https://github.com/Binduvarsha23/House_Price_Detection
 ```
 
 ## Usage
@@ -89,7 +89,7 @@ The trained model (Random Forest) is saved as `Dragon.joblib` for future predict
 
 ## Visualizations
 
-- **Random Forest**: ![RandomForest](RandomForest.png)
+- **Random Forest**: ![RandomForest](Random_Forest.png)
 - **Linear Regression**: ![LinearRegression](LinearRegression.png)
 - **Decision Tree**: ![DecisionTree](DecisionTree.png)
 
