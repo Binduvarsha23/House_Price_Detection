@@ -71,13 +71,13 @@ git clone https://github.com/Binduvarsha23/House_Price_Detection.git
 
 ## Usage
 
-1. **Train the Models**: You can run the code in the `boston_housing.py` file to train the models on the dataset.
+1. **Train the Models**: You can run the code in the `ML-END-PROJECT.py` file to train the models on the dataset.
 2. **Evaluate the Models**: After training, the code will output the RMSE for the test set and display the visualizations.
 
 Run the project as follows:
 
 ```bash
-python boston_housing.py
+python ML-END-PROJECT.py
 ```
 
 This will also generate:
