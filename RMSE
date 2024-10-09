@@ -1,0 +1,8 @@
+#Linear Regression model
+RMSE: 4.143874870573363
+
+#Decision Tree Mode
+RMSE: 4.003882919288793
+
+#Random Forest model
+RMSE: 2.9151637208925063
